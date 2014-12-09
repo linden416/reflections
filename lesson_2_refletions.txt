@@ -1,0 +1,6 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+Creates meta directory .git
+
+This is where the commit history, change descriptions, will reside.
+

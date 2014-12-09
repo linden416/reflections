@@ -4,3 +4,9 @@ Creates meta directory .git
 
 This is where the commit history, change descriptions, will reside.
 
+How is the staging area different from the working directory and the repository?What value do you think it offers?
+
+It contains only a subset of the file in the working directory. These are the files to be added permenantly to the repository.
+
+Seems like I can hold off from commiting until I reach a milestone.
+

@@ -1,12 +1,35 @@
 What happens when you initialize a repository? Why do you need to do it?
 
-Creates meta directory .git
+	Creates meta directory .git
 
-This is where the commit history, change descriptions, will reside.
+	This is where the commit history, change descriptions, will reside.
 
 How is the staging area different from the working directory and the repository?What value do you think it offers?
 
-It contains only a subset of the file in the working directory. These are the files to be added permenantly to the repository.
+	It contains only a subset of the file in the working directory. These are the files to be added permenantly to the repository.
 
-Seems like I can hold off from commiting until I reach a milestone.
+	Seems like I can hold off from commiting until I reach a milestone.
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+	Get all affected files up in the staging area completed before doing a commit.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Separate major versions by branch?!?
+
+How do the diagrams help you visualize the branch structure?
+
+	It shows parent commits that can be reached from a given branch as well as where unreachable commits occur.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+	One main branch.
+
+	The diagram shows one long trunk with various branches.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	Wierd question... Manually merging is probably a nightmare and something I'd want to avoid at all costs, but it would assure you of what is being commited which offers peace of mind.
+
 

@@ -1,1 +1,5 @@
 When would you want to use a remote repository rather than keeping all your work local?
+
+	If I did not have access to a private computer and had to resort to a public computer. 
+
+

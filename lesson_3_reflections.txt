@@ -6,4 +6,14 @@ Why might you want to always pull changes manually rather than having Git automa
 
 	If I understand the question, I definitely would prefer manual pulls to prevent overwriting a local version that was uncommitted. I would want to know what was in the local directory, and manually pulling would ensure that.
 
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	A fork is a clone of a repository, but it is performed in GitHub.
+	A clone is a copy of a repository to a local computer.
+	A branch is a separate copy of a local repository.
+
+	If I was working alone, I would clone to my local computer. 
+	If I was working in a team, I'd fork and setup others to access the repository in GitHub.
+	If I was experimenting, working on a bug fix, adding new functionality, I would create branch on local repository.
+
 

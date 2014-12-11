@@ -2,4 +2,8 @@ When would you want to use a remote repository rather than keeping all your work
 
 	If I did not have access to a private computer and had to resort to a public computer. 
 
+Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
+
+	If I understand the question, I definitely would prefer manual pulls to prevent overwriting a local version that was uncommitted. I would want to know what was in the local directory, and manually pulling would ensure that.
+
 

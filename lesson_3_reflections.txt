@@ -16,4 +16,11 @@ Describe the differences between forks, clones, and branches. When would you use
 	If I was working in a team, I'd fork and setup others to access the repository in GitHub.
 	If I was experimenting, working on a bug fix, adding new functionality, I would create branch on local repository.
 
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	I would think of the copy as a backup that resides in another location. And for the obvious reasons,
+	if the GitHub remote repository was corrupt or lost its' integrity, a local copy may be used to rebuild it.
+
+
+
 

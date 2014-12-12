@@ -21,6 +21,16 @@ What is the benefit of having a copy of the last known state of the remote store
 	I would think of the copy as a backup that resides in another location. And for the obvious reasons,
 	if the GitHub remote repository was corrupt or lost its' integrity, a local copy may be used to rebuild it.
 
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+	I suppose email and a common file share could be a method used. It would be harder because you
+	would need to either 'eyeball' code or use system utilities manually to identify conflicts.
+	You would need to know what people are involved and their association to the files.
+	Branches would be separate clones with no HEAD identification which can lead to confusion.
+	Not to mention the near impossible task of going back to a prior point of the files-- notice
+	I didn't say prior commit point because commit management is performed by git.
+
+
 
 
 

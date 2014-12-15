@@ -30,6 +30,15 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	Not to mention the near impossible task of going back to a prior point of the files-- notice
 	I didn't say prior commit point because commit management is performed by git.
 
+When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+	If I was going to add new logic for a new feature or a fix, I'd play it safe and do it in a branch 
+	because if I screwed things up or made things complicated, I can easily go back to master to start
+	fresh. 
+
+	If all I needed to do was fix a syntactical bug or change a setting, then I'd do that in master.
+
+
 
 
 
